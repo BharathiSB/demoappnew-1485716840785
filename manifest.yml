@@ -1,0 +1,14 @@
+---
+applications:
+- memory: 512M
+  instances: 1
+  path: build/libs/conversation-enhanced-0.1-SNAPSHOT.war
+  env:
+   DIALOG_ID: a6d4c74b-0834-492a-81f8-e879095ebc32
+   TMDB_API_KEY: 844252d76cdec15e2f37fd689e2fb6ee
+   CLASSIFIER_ID: 3a84cfx63-nlc-2179
+   COLLECTION_NAME: WMCatalogue
+   RANKER_ID: 766366x22-rank-2146
+   CLUSTER_ID: sc0cfdaa4f_4ae3_4a66_83ea_e47092350f57
+   WORKSPACE_ID: ca3cc530-d753-4eb5-ae28-179afaf491da
+   LOGGING_ENABLED: false
