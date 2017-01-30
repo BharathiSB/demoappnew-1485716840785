@@ -1,0 +1,158 @@
+Front Load,Capacity 3,price 300
+Front Load,Capacity 3,price 400
+Front Load,Capacity 3,price 500
+Front Load,Capacity 3,price 600
+Front Load,Capacity 3,price 700
+Front Load,Capacity 3,price 800
+Front Load,Capacity 3,price 900
+Front Load,Capacity 3,price 1000
+Front Load,Capacity 3,price 1100
+Front Load,Capacity 3,price 1200
+Front Load,Capacity 3,price 1300
+Front Load,Capacity 4.5,price 300
+Front Load,Capacity 4.5,price 400
+Front Load,Capacity 4.5,price 500
+Front Load,Capacity 4.5,price 600
+Front Load,Capacity 4.5,price 700
+Front Load,Capacity 4.5,price 800
+Front Load,Capacity 4.5,price 900
+Front Load,Capacity 4.5,price 1000
+Front Load,Capacity 4.5,price 1100
+Front Load,Capacity 4.5,price 1200
+Front Load,Capacity 4.5,price 1300
+Front Load,Capacity 5.3,price 300
+Front Load,Capacity 5.3,price 400
+Front Load,Capacity 5.3,price 500
+Front Load,Capacity 5.3,price 600
+Front Load,Capacity 5.3,price 700
+Front Load,Capacity 5.3,price 800
+Front Load,Capacity 5.3,price 900
+Front Load,Capacity 5.3,price 1000
+Front Load,Capacity 5.3,price 1100
+Front Load,Capacity 5.3,price 1200
+Front Load,Capacity 5.3,price 1300
+Top Load,Capacity 3,price 300
+Top Load,Capacity 3,price 400
+Top Load,Capacity 3,price 500
+Top Load,Capacity 3,price 600
+Top Load,Capacity 3,price 700
+Top Load,Capacity 3,price 800
+Top Load,Capacity 3,price 900
+Top Load,Capacity 3,price 1000
+Top Load,Capacity 3,price 1100
+Top Load,Capacity 3,price 1200
+Top Load,Capacity 3,price 1300
+Top Load,Capacity 4.5,price 300
+Top Load,Capacity 4.5,price 400
+Top Load,Capacity 4.5,price 500
+Top Load,Capacity 4.5,price 600
+Top Load,Capacity 4.5,price 700
+Top Load,Capacity 4.5,price 800
+Top Load,Capacity 4.5,price 900
+Top Load,Capacity 4.5,price 1000
+Top Load,Capacity 4.5,price 1100
+Top Load,Capacity 4.5,price 1200
+Top Load,Capacity 4.5,price 1300
+Top Load,Capacity 5.3,price 300
+Top Load,Capacity 5.3,price 400
+Top Load,Capacity 5.3,price 500
+Top Load,Capacity 5.3,price 600
+Top Load,Capacity 5.3,price 700
+Top Load,Capacity 5.3,price 800
+Top Load,Capacity 5.3,price 900
+Top Load,Capacity 5.3,price 1000
+Top Load,Capacity 5.3,price 1100
+Top Load,Capacity 5.3,price 1200
+Top Load,Capacity 5.3,price 1300
+Free Delivery,Front Load,Capacity 3,price 300
+Free Delivery,Front Load,Capacity 3,price 400
+Free Delivery,Front Load,Capacity 3,price 500
+Free Delivery,Front Load,Capacity 3,price 600
+Free Delivery,Front Load,Capacity 3,price 700
+Free Delivery,Front Load,Capacity 3,price 800
+Free Delivery,Front Load,Capacity 3,price 900
+Free Delivery,Front Load,Capacity 3,price 1000
+Free Delivery,Front Load,Capacity 3,price 1100
+Free Delivery,Front Load,Capacity 3,price 1200
+Free Delivery,Front Load,Capacity 3,price 1300
+Free Delivery,Front Load,Capacity 4.5,price 300
+Free Delivery,Front Load,Capacity 4.5,price 400
+Free Delivery,Front Load,Capacity 4.5,price 500
+Free Delivery,Front Load,Capacity 4.5,price 600
+Free Delivery,Front Load,Capacity 4.5,price 700
+Free Delivery,Front Load,Capacity 4.5,price 800
+Free Delivery,Front Load,Capacity 4.5,price 900
+Free Delivery,Front Load,Capacity 4.5,price 1000
+Free Delivery,Front Load,Capacity 4.5,price 1100
+Free Delivery,Front Load,Capacity 4.5,price 1200
+Free Delivery,Front Load,Capacity 4.5,price 1300
+Free Delivery,Front Load,Capacity 5.3,price 300
+Free Delivery,Front Load,Capacity 5.3,price 400
+Free Delivery,Front Load,Capacity 5.3,price 500
+Free Delivery,Front Load,Capacity 5.3,price 600
+Free Delivery,Front Load,Capacity 5.3,price 700
+Free Delivery,Front Load,Capacity 5.3,price 800
+Free Delivery,Front Load,Capacity 5.3,price 900
+Free Delivery,Front Load,Capacity 5.3,price 1000
+Free Delivery,Front Load,Capacity 5.3,price 1100
+Free Delivery,Front Load,Capacity 5.3,price 1200
+Free Delivery,Front Load,Capacity 5.3,price 1300
+Free Delivery,Top Load,Capacity 3,price 300
+Free Delivery,Top Load,Capacity 3,price 400
+Free Delivery,Top Load,Capacity 3,price 500
+Free Delivery,Top Load,Capacity 3,price 600
+Free Delivery,Top Load,Capacity 3,price 700
+Free Delivery,Top Load,Capacity 3,price 800
+Free Delivery,Top Load,Capacity 3,price 900
+Free Delivery,Top Load,Capacity 3,price 1000
+Free Delivery,Top Load,Capacity 3,price 1100
+Free Delivery,Top Load,Capacity 3,price 1200
+Free Delivery,Top Load,Capacity 3,price 1300
+Free Delivery,Top Load,Capacity 4.5,price 300
+Free Delivery,Top Load,Capacity 4.5,price 400
+Free Delivery,Top Load,Capacity 4.5,price 500
+Free Delivery,Top Load,Capacity 4.5,price 600
+Free Delivery,Top Load,Capacity 4.5,price 700
+Free Delivery,Top Load,Capacity 4.5,price 800
+Free Delivery,Top Load,Capacity 4.5,price 900
+Free Delivery,Top Load,Capacity 4.5,price 1000
+Free Delivery,Top Load,Capacity 4.5,price 1100
+Free Delivery,Top Load,Capacity 4.5,price 1200
+Free Delivery,Top Load,Capacity 4.5,price 1300
+Free Delivery,Top Load,Capacity 5.3,price 300
+Free Delivery,Top Load,Capacity 5.3,price 400
+Free Delivery,Top Load,Capacity 5.3,price 500
+Free Delivery,Top Load,Capacity 5.3,price 600
+Free Delivery,Top Load,Capacity 5.3,price 700
+Free Delivery,Top Load,Capacity 5.3,price 800
+Free Delivery,Top Load,Capacity 5.3,price 900
+Free Delivery,Top Load,Capacity 5.3,price 1000
+Free Delivery,Top Load,Capacity 5.3,price 1100
+Free Delivery,Top Load,Capacity 5.3,price 1200
+Free Delivery,Top Load,Capacity 5.3,price 1300
+Front Load,Capacity 3,Rating 1
+Front Load,Capacity 3,Rating 3
+Front Load,Capacity 3,Rating 4
+Front Load,Capacity 3,Rating 5
+Front Load,Capacity 4.5,Rating 1
+Front Load,Capacity 4.5,Rating 3
+Front Load,Capacity 4.5,Rating 4
+Front Load,Capacity 4.5,Rating 5
+Front Load,Capacity 5.3,Rating 1
+Front Load,Capacity 5.3,Rating 3
+Front Load,Capacity 5.3,Rating 4
+Front Load,Capacity 5.3,Rating 5
+Top Load,Capacity 3,Rating 1
+Top Load,Capacity 3,Rating 3
+Top Load,Capacity 3,Rating 4
+Top Load,Capacity 3,Rating 5
+Top Load,Capacity 4.5,Rating 1
+Top Load,Capacity 4.5,Rating 3
+Top Load,Capacity 4.5,Rating 4
+Top Load,Capacity 4.5,Rating 5
+Top Load,Capacity 5.3,Rating 1
+Top Load,Capacity 5.3,Rating 3
+Top Load,Capacity 5.3,Rating 4
+Top Load,Capacity 5.3,Rating 5
+
+
