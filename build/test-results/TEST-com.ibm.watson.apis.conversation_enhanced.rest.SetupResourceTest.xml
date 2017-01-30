@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-01-29T18:35:45" hostname="IBM100-PC0BY71J" time="1.337">
+<testsuite name="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2017-01-30T05:12:35" hostname="IBM100-PC0BY71J" time="1.293">
   <properties/>
-  <testcase name="shouldReturnReadyState" classname="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" time="1.074"/>
-  <testcase name="shouldReturnNotReadyState" classname="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" time="0.068"/>
-  <testcase name="shouldReturnErrorState" classname="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" time="0.099"/>
-  <testcase name="shouldReturnErrorWorkspaceId" classname="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" time="0.084"/>
-  <system-out><![CDATA[2017-01-30 00:05:45,621 INFO Log4j appears to be running in a Servlet environment, but there's no log4j-web module available. If you want better web container support, please add the log4j-web JAR to your web archive or server lib directory.
-2017-01-30 00:05:45,662 ERROR Could not reconfigure JMX java.lang.LinkageError: loader constraint violation: loader (instance of org/powermock/core/classloader/MockClassLoader) previously initiated loading for a different type with name "javax/management/MBeanServer"
+  <testcase name="shouldReturnReadyState" classname="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" time="1.113"/>
+  <testcase name="shouldReturnNotReadyState" classname="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" time="0.039"/>
+  <testcase name="shouldReturnErrorState" classname="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" time="0.044"/>
+  <testcase name="shouldReturnErrorWorkspaceId" classname="com.ibm.watson.apis.conversation_enhanced.rest.SetupResourceTest" time="0.088"/>
+  <system-out><![CDATA[2017-01-30 10:42:36,476 INFO Log4j appears to be running in a Servlet environment, but there's no log4j-web module available. If you want better web container support, please add the log4j-web JAR to your web archive or server lib directory.
+2017-01-30 10:42:36,515 ERROR Could not reconfigure JMX java.lang.LinkageError: loader constraint violation: loader (instance of org/powermock/core/classloader/MockClassLoader) previously initiated loading for a different type with name "javax/management/MBeanServer"
 	at java.lang.ClassLoader.defineClass1(Native Method)
 	at java.lang.ClassLoader.defineClass(ClassLoader.java:763)
 	at org.powermock.core.classloader.MockClassLoader.loadUnmockedClass(MockClassLoader.java:250)

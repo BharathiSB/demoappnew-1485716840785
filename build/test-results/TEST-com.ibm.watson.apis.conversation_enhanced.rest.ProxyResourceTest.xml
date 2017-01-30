@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.ibm.watson.apis.conversation_enhanced.rest.ProxyResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-01-29T18:35:41" hostname="IBM100-PC0BY71J" time="2.295">
+<testsuite name="com.ibm.watson.apis.conversation_enhanced.rest.ProxyResourceTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-01-30T05:12:33" hostname="IBM100-PC0BY71J" time="1.452">
   <properties/>
-  <testcase name="testSendMessage" classname="com.ibm.watson.apis.conversation_enhanced.rest.ProxyResourceTest" time="2.295"/>
-  <system-out><![CDATA[2017-01-30 00:05:42,257 INFO Log4j appears to be running in a Servlet environment, but there's no log4j-web module available. If you want better web container support, please add the log4j-web JAR to your web archive or server lib directory.
+  <testcase name="testSendMessage" classname="com.ibm.watson.apis.conversation_enhanced.rest.ProxyResourceTest" time="1.452"/>
+  <system-out><![CDATA[2017-01-30 10:42:34,120 INFO Log4j appears to be running in a Servlet environment, but there's no log4j-web module available. If you want better web container support, please add the log4j-web JAR to your web archive or server lib directory.
 ]]></system-out>
-  <system-err><![CDATA[Jan 30, 2017 12:05:41 AM okhttp3.mockwebserver.MockWebServer$3 execute
-INFO: MockWebServer[62615] starting to accept connections
-Jan 30, 2017 12:05:42 AM com.ibm.watson.developer_cloud.util.CredentialUtils getKeyUsingJNDI
+  <system-err><![CDATA[Jan 30, 2017 10:42:33 AM okhttp3.mockwebserver.MockWebServer$3 execute
+INFO: MockWebServer[54234] starting to accept connections
+Jan 30, 2017 10:42:34 AM com.ibm.watson.developer_cloud.util.CredentialUtils getKeyUsingJNDI
 WARNING: Error during JNDI key lookup: Need to specify class name in environment or system property, or as an applet parameter, or in an application resource file:  java.naming.factory.initial
-Jan 30, 2017 12:05:43 AM okhttp3.mockwebserver.MockWebServer$4 processOneRequest
-INFO: MockWebServer[62615] received request: POST /v1/workspaces/123/message?version=2016-05-19 HTTP/1.1 and responded: HTTP/1.1 200 OK
-Jan 30, 2017 12:05:43 AM okhttp3.mockwebserver.MockWebServer$3 acceptConnections
-INFO: MockWebServer[62615] done accepting connections: socket closed
+Jan 30, 2017 10:42:34 AM okhttp3.mockwebserver.MockWebServer$4 processOneRequest
+INFO: MockWebServer[54234] received request: POST /v1/workspaces/123/message?version=2016-05-19 HTTP/1.1 and responded: HTTP/1.1 200 OK
+Jan 30, 2017 10:42:34 AM okhttp3.mockwebserver.MockWebServer$3 acceptConnections
+INFO: MockWebServer[54234] done accepting connections: socket closed
 ]]></system-err>
 </testsuite>

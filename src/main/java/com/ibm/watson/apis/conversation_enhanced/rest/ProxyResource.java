@@ -119,13 +119,18 @@ public class ProxyResource {
 
     // Use the previously configured service object to make a call to the conversational service
     MessageResponse response = service.message(id, request).execute();
-
+     
     // Determine if conversation's response is sufficient to answer the user's question or if we
     // should call the retrieve and rank service to obtain better answers
+    String query = "";
     if (response.getContext().containsKey("call_retrieve_and_rank") &&
     		(boolean)(response.getContext().get("call_retrieve_and_rank")) == true) {
-      String query = response.getInputText();
-
+    	 if (response.getContext().containsKey("question")) {
+	    		query = (String)response.getContext().get("question");
+	    		query = query + ' ' + response.getInputText();
+    	 } else {
+	    	query = response.getInputText();
+    	 } 
       // Extract the user's original query from the conversational response
       if (query != null && !query.isEmpty()) {
         Client retrieveAndRankClient = new Client();

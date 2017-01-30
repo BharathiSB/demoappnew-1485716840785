@@ -437,7 +437,7 @@ footer {
  position: fixed;
  left:50%;
  width: 40%;
- bottom: 35px;
+ bottom: 25px;
  z-index:5;
 }
 
@@ -447,20 +447,20 @@ footer {
   outline: none;
   width:600px;
   background: transparent;
-  font-size: 20px;
+  font-size: 24px;
   color: #323232;
   letter-spacing: 0.015rem;
-  line-height: 20px;
-  height: 20px;
+  line-height: 26px;
+  height: 28px;
   max-width: 100%;
-  padding-left: 0.125rem;
-  margin-bottom: -0.125rem;
+  padding-left: 0.525rem;
+  margin-bottom: 0.35rem;
   font-family: Helvetica Neue for IBM, Helvetica Neue, Helvetica, Arial, sans-serif;
 
 }
 
 #textInput.underline {
-  border-bottom: 0.125rem solid #00B4A0;
+  border-bottom: 0.35rem solid #00B4A0;
 }
 
 ::-webkit-input-placeholder {
@@ -527,9 +527,9 @@ font-family: 'Helvetica Neue for IBM';
 color: #FFFFFF;
 padding:10px;
 padding-left: 25px;
-font-size: 20px;
+font-size: 18px;
 letter-spacing: 0.27px;
-line-height: 20px;
+line-height: 18px;
 }
 .preview{
 cursor: pointer;
@@ -538,8 +538,8 @@ cursor: pointer;
     position: fixed;
     top:95px;
  	left:52%;
- 	height:75%;
- 	width:36%;
+ 	height:75.5%;
+ 	width:36.5%;
  	margin: 0.20rem;
     background-color: #FFF;
     z-index: 4;
@@ -589,7 +589,7 @@ font-size:larger;
 
 .from-user {
     position: relative;
-    font-size: 2rem;
+    font-size: 1rem;
 	float:right;
     color: #fff;
     letter-spacing: 0.015rem;
@@ -701,7 +701,7 @@ text-decoration:none;
 .docBody {
  cursor: pointer;
  padding-left: 20px;
- padding-right: 20px;
+ padding-right: 30px;
  background: #FFFFFF;
 }
 .docBodyTitle{
@@ -717,10 +717,10 @@ text-decoration:none;
 .docBodySnippet{
  padding-top: 23px;
  font-family: 'Helvetica Neue for IBM';
- font-size: 20px;
+ font-size: 15px;
  color:#000000;
  letter-spacing: 0.2px;
- line-height: 17px;
+ line-height: 18px;
  background: #FFFFFF;
 }
  .bodyText {
